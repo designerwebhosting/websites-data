@@ -44,8 +44,8 @@
       "3d_printing"
     ],
     "images": [
-      "assets/images/myprinter.png",
-      "assets/images/08_1989_tankMan-1280.jpg"
+      "/assets/images/myprinter.png",
+      "/assets/images/08_1989_tankMan-1280.jpg"
     ],
     "description": " Post with a picture.",
     "categories": "3d_printing"
