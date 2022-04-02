@@ -1,0 +1,14 @@
+[
+  {
+    "image": "/uploads/google-voice-writing.png",
+    "image_alt_tag": "google voice writing",
+    "name": "using google voice type for creating post",
+    "description": "My experience using Google voice for Documents to create web content.",
+    "last_modified_at": "2018-03-11T00:00:00.000Z",
+    "comments": true,
+    "schema": "BlogPosting",
+    "tags": ["google","voice typing","android"],
+    "categories": "computing",
+    "md_content": "This post was written using Google voice type, I hope to explain and demonstrate how using Voice type to create a post is easy.<!--more-->\n\n![Google Docs Voice Typing](/uploads/google-voicr.png){:.w3-image}\n\n"
+  }
+] 
