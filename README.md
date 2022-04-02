@@ -1,2 +1,2 @@
-# squarespeed-new
-Development Website of Square Speed Energy
+# websites data
+Data for Websites managed by Designer Web Hosting
