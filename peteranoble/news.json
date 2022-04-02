@@ -1,0 +1,11 @@
+[
+ {
+   "date": "2020-04-16",
+   "content": "The site is looking a bit unloved. Updates are being developed and new content to be uploaded."
+ },
+ {
+   "date": "2019-05-29",
+   "content": "Looking into developing an online shop with cart for Jekyll. Using the KISS approach, so a spreadsheet for the database storing products, customers and postage rates. A little bit of LAMBDA functions to automate the backend and customer logins. Anybody interested. UPDATE 2020-04-16: Although this project is on hold, the specification has evolved."
+ }
+]
+

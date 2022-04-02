@@ -1,0 +1,88 @@
+[
+  {
+    "id": "8ab74540b64b420d823bad9778a42a08",
+    "parent_id": "96e34dd9878d4a0cb9c806288b1bc998",
+    "title": "my 3d printer build with infinity z axis",
+    "body": "[//]: # ([description: Information about my new 3D printer build with infinity Z axis.])\n\n![2018-11-05-myprinter.jpg](/assets/images/2018-11-05-myprinter.jpg){:.w3-image style=\"width:420px\"}\n\nIt's taken a bit of time, but I am finally working to finish my 3D printer. The printer will have a print area of about 350mm x 350mm (XY) and infinity for the Z axis.<!--more--> It will print at 45 degrees onto a heated conveyor belt allowing it to build long print in the Z axis. Similar 3D printer geometries have been built by Brook Drumm from Printrbot and Blackbelt.\n\nOver time I will update this post and post new posts about the build and the theory behind this style of 3D printer.\n\n**Update 2022-02-13** \n\nThis printer did not get completed and was abandoned in 2019. Although I was very happy with the structural design, it was difficult to identify suitable materials for the belt assembly. It is interesting that all the 3d printers of this simular printing method are showing ongoing issues with their belt mechanisms.\n\nSome of the ideas and lessons will be used on other 3dprinter designs.",
+    "created_time": 1640252180651,
+    "updated_time": 1647379791307,
+    "author": "",
+    "source": "joplin",
+    "type_": 1,
+    "tags": [
+      "3d_printing",
+      "popular"
+    ],
+    "images": [
+      "assets/images/2018-11-05-myprinter.jpg"
+    ],
+    "description": " Information about my new 3D printer build with infinity Z axis.",
+    "categories": "3d_printing"
+  },
+  {
+    "id": "bc799c8d66db4acfbdc2932b6807987d",
+    "parent_id": "96e34dd9878d4a0cb9c806288b1bc998",
+    "title": "using google voice type for creating posts.",
+    "body": "[//]: # ([description: My experience using Google voice for Documents to create web content.])\n\nThis post was written using Google voice type, I hope to explain and demonstrate how using Voice type to create a post is easy.\n<!--more-->\n\n![google-voice.jpg](/assets/images/google-voice.jpg){:.w3-image style=\"width: 420px\"}\n\n How you could use voice type to generate your own posts or articles. The hardest thing to get use to is actually speaking out loud and trying to get your thoughts together to create the post. However over time this will become easier and you will become quicker at creating your documents.\n\nA word of warning I don't recommend using Google voice type creating documents when driving your car or operating machinery. Where I am unable to use Voice type, I just record my voice and play it back into my document using Voice type later. It takes a bit more editing but this way you can concentrate on what you are doing and not on editing.\n\n## How I use Google Voice type\n\nTo begin with I set out a list of headings as a framework to help me plan my post and to prompt me when speaking. For example :-\n\nIntroduction\n\noutline\n\nmain paragraph\n\ncall To Action\n\nOffer\n\nHow to contact\n\nsummary\n\nUnder each heading I add my content and build my document. When I have completed generating my content I edit and check the layout on my Chromebook before posting the document to my site. A quick post could be easily edited on an Android phone and posted to the website, but adding images and diagrams are often easier on my Chromebook.\n\n## Google Voice type punctuation\n\nPunctuation can be easily added to your text as you speak, but it does take a bit of getting use to.\n\n* > Period (.)\n\n* > comma (,)\n\n* > question mark (?)exclamation or exclamation point (!)\n > Line spacing: Enter or new line, new paragraph\n\n## Google Voice Typing with Google Documents.\n\nUsing Google voice typing within Google document is very easy, all you have to do is go to the tools menu and select Voice typing. Then move your cursor to where you want to place your text, click the microphone icon and start speaking.\n\n## Google Voice Typing with Your Android Phone\n\nTo use voice typing on a Google phone with Google Documents I had to install the Google keyboard app and set up the keyboard input settings. Now when I use Google Documents the keyboard has a little microphone, which when selected allows me to use Google Type Voice to create my document. Using voice type is very easy compared to trying to use the small little keyboard on my Android phone.",
+    "created_time": 1642275640910,
+    "updated_time": 1647381028286,
+    "author": "",
+    "source": "joplin-desktop",
+    "type_": 1,
+    "tags": [
+      "android",
+      "voice_typing",
+      "google"
+    ],
+    "images": [
+      "assets/images/google-voice.jpg"
+    ],
+    "description": " My experience using Google voice for Documents to create web content.",
+    "categories": "computing"
+  },
+  {
+    "id": "11837d61b8a84a36a5c47f4e61f79e9a",
+    "parent_id": "96e34dd9878d4a0cb9c806288b1bc998",
+    "title": "british electricity mix over the last 12 months.",
+    "body": "![uk-energy-mix.jpg](/assets/images/uk-energy-mix.jpg)\n\n\n<script id=\"infogram_0_c75b6c7a-a5af-49d9-90f3-27e45b9f5631\" title=\"EMBED - Last 12 Months\" src=\"https://e.infogram.com/js/dist/embed.js?lQu\" type=\"text/javascript\"></script><div style=\"padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px\"><a href=\"https://infogram.com/c75b6c7a-a5af-49d9-90f3-27e45b9f5631\" style=\"color:#989898!important;text-decoration:none!important;\" target=\"_blank\">EMBED - Last 12 Months</a><br><a href=\"https://infogram.com\" style=\"color:#989898!important;text-decoration:none!important;\" target=\"_blank\" rel=\"nofollow\">Infogram</a></div>",
+    "created_time": 1643891869134,
+    "updated_time": 1647812458730,
+    "author": "",
+    "source": "joplin-desktop",
+    "type_": 1,
+    "tags": [],
+    "images": [
+      "assets/images/uk-energy-mix.jpg"
+    ],
+    "description": "",
+    "categories": "renewables"
+  },
+  {
+    "id": "fe5c6b870b8f4d469e6d5abc5113c1cf",
+    "parent_id": "96e34dd9878d4a0cb9c806288b1bc998",
+    "title": "creating inline SVG images within your content.",
+    "body": "Creating images with code may sound difficult and using a drawing app to make svg images may be the easiest method to use. However for simple images a text editor maybe your friend.\n<!--more-->\n\n[W3C]((https://www.w3.org \"World Wide Web Consortium \") describes SVG or Scalable Vector Graphics on their web as\n>\"*... a Web graphics language. SVG defines markup and APIs for creating static or dynamic images, capable of interactivity and animation, including various graphical effects. It can be styled with CSS, and combined with HTML.*\" [**W3C**](https://www.w3.org/Graphics/SVG/IG/resources/svgprimer.html)\n\n<svg viewBox=\"0 0 200 200\" style=\"width:150px;margin-left:20px;\">\n <circle cx=\"100\" cy=\"100\" r=\"100\" stroke=\"red\" stroke-width=\"1\" fill=\"red\" />\n <circle cx=\"100\" cy=\"100\" r=\"60\" stroke=\"yellow\" stroke-width=\"1\" fill=\"yellow\" />\n <text x=\"60\" y=\"100\" fill=\"black\">I love SVG!</text>\n</svg> \n\n## A quick look at using SVG.\n\n- Start with svg tags and the view box.\n\n>**&lt;svg viewBox=\"0 0 200 200\"&gt;&lt;/svg&gt;**\n\n>The viewBox attribute specifyies a given set of graphics stretch to fit a particular container element.\n\n- Add the content of the graphic. For our example circles,\n\n>**&lt;circle cx=\"100\" cy=\"100\" r=\"100\" stroke=\"red\" stroke-width=\"1\" fill=\"red\" /&gt;**\n\n>**&lt;circle cx=\"100\" cy=\"100\" r=\"60\" stroke=\"red\" stroke-width=\"1\" fill=\"yellow\" /&gt;**\n\n>cx and cy are the starting points and r is the radius of the circle. fill defines the colour of the circle. Each item sits on top on the previous.\n\n>**&lt;text x=\"60\" y=\"100\" fill=\"black\"&gt;I love SVG!&lt;/text&gt;**\n\n> And perhaps a little text to finnish our graphic. x and y are the starting point with fill being the colour of the text.\n\n- We can add CSS styling to the svg elelement to control its size, background colours and borders.\n\n>**style=\"width:150px;\"**\n\n- We can even use javascript to alter the stying of the elements within the svg.\n\n>**&lt;button onclick=\"circle1.style.fill='yellow';\"&gt;Click to change to yellow&lt;/button&gt;**\n\n> and add an id attribute to the element to be changed.\n\n>**&lt;circle id=\"cirle1\" cx=\"100\" cy=\"100\" r=\"60\" stroke=\"red\" stroke-width=\"1\" fill=\"yellow\" /&gt;**\n\n<svg viewBox=\"0 0 200 200\" style=\"width:150px;margin-left:20px;\">\n <circle id=\"circle1\" cx=\"100\" cy=\"100\" r=\"100\" stroke=\"red\" stroke-width=\"1\" fill=\"red\" />\n <circle cx=\"100\" cy=\"100\" r=\"60\" stroke=\"yellow\" stroke-width=\"1\" fill=\"yellow\" />\n <text id=\"text\" x=\"60\" y=\"100\" fill=\"black\">I love SVG!</text>\n</svg> \n<button style=\"margin-left:20px;\" onclick=\"circle1.style.fill='green';\">Click to change to green</button>\n<button style=\"margin-left:20px;\" onclick=\"text.textContent='Text can chaged too.';\">Click to change text</button>\n\nFor more information and examples of using SVG, checkout the [w3schools website](https://www.w3schools.com/graphics/svg_intro.asp) . For detailed informaion the [W3C website](https://www.w3.org/Graphics/SVG/IG/resources/svgprimer.html) will fill in the spaces.",
+    "created_time": 1643891869134,
+    "updated_time": 1647383272614,
+    "author": "",
+    "source": "joplin-desktop",
+    "type_": 1,
+    "tags": [],
+    "description": "",
+    "categories": "computing"
+  },
+  {
+    "id": "fb353de63ea64f65b26211c3df91dec7",
+    "parent_id": "96e34dd9878d4a0cb9c806288b1bc998",
+    "title": "easy image slide show for Jekyll static sites.",
+    "body": "\nPosts in the [Jekyll](https://jekyllrb.com \"Simple, extendable, static site generator.\") static site generator are mostly written using Markdown and adding images is easy. The way they are displayed are not so easily controllable within the markdown editor and multiple images in a slide show, just a complete nigtmare to impliment. Here the [liquid](https://shopify.github.io/liquid/ \"Liquid is an open-source template language\") 'include' file comes to the rescue.\n<!--more-->\n\nI've listed my steps used for Jekyll to impliment image slide shows. \n\n**1** Create an include html file (slideShow.html) to process your list of image urls for the image slide show. This file can be re-used on various pages or posts with different images. This file is saved in the _includes folder.\n\n{% raw %}\n> &lt;div id=\"gallery\">{% for image in include.images %} \n> &lt;img class=\"mySlides\" src=\"{{ image }}\">{% endfor %} \n> &lt;button onclick=\"plusDivs(-1)\">&#10094;&lt;/button> \n> &lt;button onclick=\"plusDivs(1)\">&#10095;&lt;/button> \n> &lt;/div> \n> &lt;script> \n> var slideIndex = 1;showDivs(slideIndex); \n> function plusDivs(n) {showDivs(slideIndex += n);} \n> function showDivs(n) { \n> var i; \n> var x = document.getElementsByClassName(\"mySlides\"); \n> if (n > x.length) {slideIndex = 1} \n> if (n < 1) {slideIndex = x.length} \n> for (i = 0; i < x.length; i++) {x[i].style.display = \"none\";} \n> x[slideIndex-1].style.display = \"block\"; \n> } \n> &lt;/script> \n{% endraw%}\n\n**2** Add the list of image urls for your image slide show to the YAML front end.\n\n> slideShow: \n> &#45; image1Url \n> &#45; image2Url \n> &#45; Upto how many you want to display. \n\n**3** Place a liquid include to the image slide show file in your post or page.\n\n> &#123;&#37; include slideShow.html images=page.slideShow &#37;&#125;\n\n**4** Add your styling using css or your website theme classes.\n\nYou now have your image slide show.\n\n{% include modules/slideShow.html images=slideShow %} \n\n*Image slide show*\n{:.w3-center}",
+    "created_time": 1643891869134,
+    "updated_time": 1647383253761,
+    "author": "",
+    "source": "joplin-desktop",
+    "type_": 1,
+    "tags": [],
+    "description": "",
+    "categories": "computing"
+  }
+]
